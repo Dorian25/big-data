@@ -1,0 +1,218 @@
+[0m[[0minfo[0m] [0mUpdating {file:/home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/}exercice2...[0m
+[0m[[0mdebug[0m] [0m:: resolving dependencies :: default#exercice2_2.13;1.0[0m
+[0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
+[0m[[0mdebug[0m] [0m	validate = true[0m
+[0m[[0mdebug[0m] [0m	refresh = false[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.13.3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6738cad0[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.13.3[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.13.3 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	[2.13.3] org.scala-lang#scala-library;2.13.3[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving junit#junit;4.13.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: junit#junit;4.13.1 {compile=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: junit#junit;4.13.1[0m
+[0m[[0mdebug[0m] [0m	found junit#junit;4.13.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->master(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.hamcrest#hamcrest-core;1.3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.hamcrest#hamcrest-core;1.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.3[0m
+[0m[[0mdebug[0m] [0m	found org.hamcrest#hamcrest-core;1.3 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'provided'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [provided][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'optional'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [optional][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [compile-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [provided][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [runtime-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [optional][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [test-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies junit#junit;4.13.1->org.hamcrest#hamcrest-core;1.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->junit#junit;4.13.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [provided][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'plugin'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [plugin][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'sources'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [sources][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'docs'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [docs][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'pom'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [pom][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'scala-tool'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#exercice2_2.13;1.0 [scala-tool][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-compiler;2.13.3 [scala-tool->default][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-compiler;2.13.3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.13.3 {scala-tool=[default, optional(default)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.13.3[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-compiler;2.13.3 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	[2.13.3] org.scala-lang#scala-compiler;2.13.3[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-compiler;2.13.3 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-compiler;2.13.3 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-library;2.13.3 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-library;2.13.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-library;2.13.3 [compile->default][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-library;2.13.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-library;2.13.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-library;2.13.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-library;2.13.3 [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-library;2.13.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-library;2.13.3 [compile->optional(default)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-reflect;2.13.3 [compile->master(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-reflect;2.13.3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.13.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.13.3[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-reflect;2.13.3 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	[2.13.3] org.scala-lang#scala-reflect;2.13.3[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-reflect;2.13.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-reflect;2.13.3->org.scala-lang#scala-library;2.13.3 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-reflect;2.13.3->org.scala-lang#scala-library;2.13.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-reflect;2.13.3 [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-reflect;2.13.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-reflect;2.13.3->org.scala-lang#scala-library;2.13.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-reflect;2.13.3->org.scala-lang#scala-library;2.13.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.jline#jline;3.15.0 [compile->master(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.jline#jline;3.15.0 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.jline#jline;3.15.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.jline#jline;3.15.0[0m
+[0m[[0mdebug[0m] [0m	found org.jline#jline;3.15.0 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.jline#jline;3.15.0 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.jline#jline;3.15.0 [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.jline#jline;3.15.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->net.java.dev.jna#jna;5.3.1 [compile->master(compile)][0m
+[0m[[0minfo[0m] [0mResolving net.java.dev.jna#jna;5.3.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: net.java.dev.jna#jna;5.3.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: net.java.dev.jna#jna;5.3.1[0m
+[0m[[0mdebug[0m] [0m	found net.java.dev.jna#jna;5.3.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->net.java.dev.jna#jna;5.3.1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->net.java.dev.jna#jna;5.3.1 [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->net.java.dev.jna#jna;5.3.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-library;2.13.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-library;2.13.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-reflect;2.13.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.scala-lang#scala-reflect;2.13.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.jline#jline;3.15.0 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->org.jline#jline;3.15.0 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->net.java.dev.jna#jna;5.3.1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.13.3->net.java.dev.jna#jna;5.3.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-compiler;2.13.3 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-compiler;2.13.3 [scala-tool->optional(default)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [scala-tool->default][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#exercice2_2.13;1.0->org.scala-lang#scala-library;2.13.3 [scala-tool->optional(default)][0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in cache[0m
+[0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-library;2.13.3!scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] junit#junit;4.13.1!junit.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.3!hamcrest-core.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.13.3!scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.13.3!scala-reflect.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.jline#jline;3.15.0!jline.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] net.java.dev.jna#jna;5.3.1!jna.jar[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 217ms :: artifacts dl 9ms[0m
+[0m[[0mdebug[0m] [0m	report for default#exercice2_2.13;1.0 compile produced in /home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/target/resolution-cache/reports/default-exercice2_2.13-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#exercice2_2.13;1.0 runtime produced in /home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/target/resolution-cache/reports/default-exercice2_2.13-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#exercice2_2.13;1.0 test produced in /home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/target/resolution-cache/reports/default-exercice2_2.13-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#exercice2_2.13;1.0 provided produced in /home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/target/resolution-cache/reports/default-exercice2_2.13-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#exercice2_2.13;1.0 optional produced in /home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/target/resolution-cache/reports/default-exercice2_2.13-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#exercice2_2.13;1.0 compile-internal produced in /home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/target/resolution-cache/reports/default-exercice2_2.13-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#exercice2_2.13;1.0 runtime-internal produced in /home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/target/resolution-cache/reports/default-exercice2_2.13-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#exercice2_2.13;1.0 test-internal produced in /home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/target/resolution-cache/reports/default-exercice2_2.13-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#exercice2_2.13;1.0 plugin produced in /home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/target/resolution-cache/reports/default-exercice2_2.13-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#exercice2_2.13;1.0 sources produced in /home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/target/resolution-cache/reports/default-exercice2_2.13-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#exercice2_2.13;1.0 docs produced in /home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/target/resolution-cache/reports/default-exercice2_2.13-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#exercice2_2.13;1.0 pom produced in /home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/target/resolution-cache/reports/default-exercice2_2.13-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#exercice2_2.13;1.0 scala-tool produced in /home/dorian/DATACLOUD/TME2/rendu_tme2_quaboul/Exercice2/target/resolution-cache/reports/default-exercice2_2.13-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (217ms resolve - 9ms download)[0m
+[0m[[0minfo[0m] [0mDone updating.[0m
